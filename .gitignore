@@ -28,7 +28,6 @@ env/
 
 # Environment Variables & Secrets
 .env
-.env.example
 *.local.env
 
 # Workflow Run Artifacts
